@@ -1,1 +1,2 @@
-[demonstration.webm](https://github.com/PavelShershov/graphical-interface-design/blob/main/Swipe_View/demonstration.webm)
+https://github.com/user-attachments/assets/fb598964-500f-4516-a2a3-1b76e1f96535
+
