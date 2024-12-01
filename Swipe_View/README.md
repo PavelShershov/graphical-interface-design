@@ -1,2 +1,2 @@
-[strange-landscape.webm](https://github.com/PavelShershov/graphical-interface-design/blob/main/Swipe_View/demonstration.mp4)
+[demonstration.mp4](https://github.com/PavelShershov/graphical-interface-design/blob/main/Swipe_View/demonstration.mp4)
 
