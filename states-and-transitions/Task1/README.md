@@ -1,2 +1,4 @@
-![layout](https://github.com/PavelShershov/graphical-interface-design/blob/main/Layouts/demonstration.png)
+
+
+https://github.com/user-attachments/assets/431f4120-0247-4e3d-8bfa-f5410e18d48e
 
