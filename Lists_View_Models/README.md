@@ -1,1 +1,4 @@
-![task2](https://github.com/PavelShershov/graphical-interface-design/blob/main/Positioning%20elements/Task%202/demonstration2.png)
+
+
+https://github.com/user-attachments/assets/aabab333-90b9-4232-80fc-8f35480038d0
+
